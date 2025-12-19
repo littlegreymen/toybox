@@ -1,0 +1,68 @@
+{
+    "red": {
+        "c343666d-da53-4198-a376-485c00023df4": {
+            "name": "Col Canine",
+            "helmet": false,
+            "weapon": "flame",
+            "rank": "Colonel",
+            "armor": "Steel",
+            "has_jetpack": true
+        }
+    },
+    "blue": {
+        "123e4567-e89b-12d3-a456-426614174000": {
+            "name": "mr bean",
+            "helmet": false,
+            "weapon": "guitar",
+            "rank": "private",
+            "armor": "none",
+            "has_jetpack": false
+        },
+        "bf0ae731-f44c-4b9c-8b3e-07c38582550b": {
+            "name": "Denver",
+            "helmet": true,
+            "weapon": "Grapple",
+            "rank": "Major",
+            "armor": "Metal plate",
+            "has_jetpack": false
+        }
+    },
+    "yellow": {
+        "b69ec411-bffe-48fe-ae41-c6f57c6add5e": {
+            "name": "Lt dan",
+            "helmet": false,
+            "weapon": "ray gun",
+            "rank": "Lieutentant",
+            "armor": "phase I",
+            "has_jetpack": true
+        }
+    },
+    "black": {
+        "2ebdd98d-3eec-4dff-8a9d-fe131f94b665": {
+            "name": "Mr Custard",
+            "helmet": true,
+            "weapon": "Ray Gun",
+            "rank": "Sgt Major",
+            "armor": "Kevlar",
+            "has_jetpack": true
+        },
+        "799f9011-5848-4589-8c32-78d485d20d4c": {
+            "name": "driller",
+            "helmet": true,
+            "weapon": "cattle prod",
+            "rank": "sgt",
+            "armor": "None",
+            "has_jetpack": true
+        }
+    },
+    "green": {
+        "b6e159ff-4846-4d86-8a14-af4ba2106ecc": {
+            "name": "Geoff",
+            "helmet": false,
+            "weapon": "ticklestick",
+            "rank": "private",
+            "armor": "jumper",
+            "has_jetpack": false
+        }
+    }
+}

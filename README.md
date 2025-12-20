@@ -1,1 +1,1 @@
-a collection of small experiment prototypes largely created by GPT 
+a collection of small experiment prototypes largely created by GPT guided by me as analyst

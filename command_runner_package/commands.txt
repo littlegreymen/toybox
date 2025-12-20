@@ -1,0 +1,3 @@
+# Example command file
+echo "Hello from the first command"
+echo "This is the second command"
